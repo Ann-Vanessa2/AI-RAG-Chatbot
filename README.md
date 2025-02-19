@@ -1,5 +1,7 @@
 # RAG-chatbot
 
+Link to the streamlit app: https://rag-chatbot-nsk5wz4ifapxadojap2nwc.streamlit.app/
+
 This repository contains a Retrieval-Augmented Generation (RAG) chatbot built using the Gemini API and LlamaIndex. The chatbot enhances responses by retrieving relevant context from stored documents (Paul Graham's essay) before generating answers.
 
 ### Features
